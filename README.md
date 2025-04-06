@@ -18,7 +18,7 @@
  
 ## 国内推荐的 ChatGPT镜像网站
  
-1. [https://snakegpt.work](https://snakegpt.work) —— 运营时长两年，支持GPT4、GPT4o，GPT-o3,deepseek，Midjourney绘画，国内邮箱直接注册
+1. [https://snakegpt.chat](https://snakegpt.chat) —— 运营时长两年，支持GPT4、GPT4o，GPT-o3,deepseek，Midjourney绘画，国内邮箱直接注册
 2. [https://gptcat.cc/](https://gptcat.cc/) ——  运营时长一年，一比一还原官网，可以使用GPT4o的实时语音对话。支持Claude3，开通会员后可以同时使用GPT-o1、GPT-o3与Claude，支持使用canvas模型。
 3. [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47)  ——  运营时长两年，支持GPT4.0、GPT4o。
 4. [http://gptdog.online/](http://gptdog.online/)  —— 运营时长一年半，bug比较多，大家可以看情况使用。
@@ -38,7 +38,7 @@
  
  ## 国内ChatGPT镜像网站整理合集
 
-1. [SnakeGPT](https://snakegpt.work)  
+1. [SnakeGPT](https://snakegpt.chat)  
 2. [GPTCat](https://gptcat.cc/)  
 3. [AI Panda](https://ai-panda.xyz/login?invite_code=34137c47)  
 4. [GPTDog](http://gptdog.online/)  
@@ -48,7 +48,7 @@
 8. [HaoCe Chat](https://chat.haoce.com/)  
 9. [AIBeke](https://vipag4.aibeke.com/)  
 10. [ChatNext](https://www.chatnext.top)  
-11. [SnakeGPT (Invite)](https://snakegpt.work?inVitecode=PUWFCNERUN)  
+11. [SnakeGPT (Invite)](https://snakegpt.chat?inVitecode=PUWFCNERUN)  
 12. [ChatNext (Duplicate)](https://www.chatnext.top)  
 13. [AI117](https://ai117.com/)  
 14. [FreeChatGPT (Duplicate)](https://freechatgpt.lol/)  
